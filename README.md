@@ -33,3 +33,21 @@ Este projeto demonstra a integração de Web Components em uma aplicação React
 - Certifique-se de ter o Node.js e npm instalados no seu ambiente de desenvolvimento.
 
 Este projeto exemplifica a capacidade de utilizar Web Components como "blocos de construção" modulares em uma aplicação React, proporcionando uma abordagem flexível e escalável para o desenvolvimento de interfaces de usuário.
+
+
+## Melhorias e conceitos aplicados
+
+- Aqui estão algumas abordagens que considero essenciais:
+
+Estrutura Organizada do Projeto:
+
+Certifico-me de que o projeto esteja bem estruturado, com componentes, estilos, e lógica de negócios organizados de forma clara e modular.
+
+TypeScript para Maior Segurança:
+
+Aproveito ao máximo o TypeScript para adicionar tipagem estática à minha aplicação, garantindo uma maior segurança durante o desenvolvimento, reduzindo potenciais erros e ajudando no autoentendimento da aplicação. 
+
+Web Components Reutilizáveis:
+
+Ao utilizar Web Components, busco criar componentes reutilizáveis que encapsulem funcionalidades específicas. Isso promove a modularidade e facilita a manutenção, pois as alterações podem ser realizadas em um componente isoladamente.
+
